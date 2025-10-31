@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+您好，
+
+您的库存保障现在低于指定的最小值： {warning_coverage}
+
+当前库存： {current_coverage}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

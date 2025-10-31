@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>statsbestproducts</name>
+    <displayName><![CDATA[最佳产品]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[用一小部分畅销书清单丰富您的统计数据，以更好地了解您的客户。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+恭喜！
+
+以下客户在 {shop_name} 上下了一个新订单： {firstname} {lastname} ({email})
+
+订单详细
+
+订单： {order_name} 下单： {date}
+
+支付： {payment}
+
+参考	产品	单价	数量	总价   {items}
+单件商品	{total_products}
+折扣	{total_discounts}
+礼品包装	{total_wrapping}
+配送	{total_shipping}
+含税总额	{total_tax_paid}
+总计支付	{total_paid}
+
+配送商
+
+配送商： {carrier}
+
+支付： {payment}
+
+送货地址
+
+{delivery_block_html}
+
+账单地址
+
+{invoice_block_html}
+
+客户留言：
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_wirepayment</name>
+    <displayName><![CDATA[电付]]></displayName>
+    <version><![CDATA[2.2.0]]></version>
+    <description><![CDATA[通过在结帐时显示您的帐户详细信息来接受电汇付款。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[您确定要删除您的详细资料吗?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

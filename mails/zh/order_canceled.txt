@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+订单编号 {order_name} - 订单被取消
+
+您在 {shop_name} 的订单（ {order_name}）已被商戶取消。
+
+转到您的客户帐户以了解更多信息。
+
+如果您有访客帐户，您可以通过我们商店的 [客户跟踪]({guest_tracking_url}) 部分关注您的订单。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

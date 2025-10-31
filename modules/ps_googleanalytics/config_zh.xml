@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_googleanalytics</name>
+    <displayName><![CDATA[Google Analytics]]></displayName>
+    <version><![CDATA[5.0.2]]></version>
+    <description><![CDATA[使用Google Analytics，以深入了解有关您的客户的重要指标]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[您确定要卸载Google Analytics吗？ 你会失去所有与这个模块有关的数据。]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

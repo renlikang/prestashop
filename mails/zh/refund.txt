@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+订单编号 {order_name} - 退货已处理
+
+我们目前正在使用来自 {shop_name} 的信息 {order_name} 处理您的订单。
+
+Follow your order and download your invoice on our store, go to the [历史及我的订单明细]({history_url}) section of your customer account.
+
+如果您有访客帐户，您可以通过我们商店的 [客户跟踪]({guest_tracking_url}) 部分关注您的订单。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

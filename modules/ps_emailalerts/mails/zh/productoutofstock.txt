@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+您好，
+
+{product} 几乎没有库存了。
+
+现有{last_qty} 件商品库存不足
+
+所剩库存： {qty}
+
+补充您的库存，转到后台的  目录 > 库存 部分来管理您的库存。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

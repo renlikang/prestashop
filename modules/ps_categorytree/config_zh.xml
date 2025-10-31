@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_categorytree</name>
+    <displayName><![CDATA[目录树链接]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[帮助在您的商店中导航，向您的访客显示当前类别和子类别。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

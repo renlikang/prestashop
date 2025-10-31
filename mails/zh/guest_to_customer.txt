@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+您的游客帐户已经转换到客户账户
+
+你{shop_name} 的游客账号已被转为顾客账号
+
+电子邮件地址 {email}
+
+单击以下链接来设置密码：
+{url}
+
+You can access your customer account on our store: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

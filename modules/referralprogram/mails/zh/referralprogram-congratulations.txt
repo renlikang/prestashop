@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+恭喜！
+
+您推荐的朋友  {sponsored_firstname} {sponsored_lastname}  刚刚在 [{shop_name}]({shop_url}) 下了她的第一个订单！
+
+我们很高兴为您提供优惠券，价值{discount_display} (voucher # {discount_name})。您可以在下次下单的时候使用。
+
+此致敬礼。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

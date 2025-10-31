@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+您好，
+
+{product} 已经有货了。
+
+好消息，该商品有货了！
+
+点击以下链接访问产品页面并订购： [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

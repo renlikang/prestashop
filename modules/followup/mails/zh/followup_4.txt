@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+您在 {shop_name} 的购物车
+
+您是我们最好的客户之一！ 但是，您似乎已经 {days_threshold} 天没有下过单了。
+
+Your cart has been saved, you can resume your order by visiting our store: {shop_url}
+
+我们很高兴为您提供下一个订单 {amount}% 的折扣。 而且此优惠有效期为 {days} 天，所以不要再等了！
+
+这是您的优惠券代码： {voucher_num}
+
+在您的购物车中输入此代码以获得折扣。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

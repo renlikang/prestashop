@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_faviconnotificationbo</name>
+    <displayName><![CDATA[Favicon（喜爱的图标）上的订单通知]]></displayName>
+    <version><![CDATA[2.1.3]]></version>
+    <description><![CDATA[每次收到新订单、客户或消息时，都会直接在浏览器选项卡上获得通知。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

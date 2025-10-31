@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>productcomments</name>
+    <displayName><![CDATA[产品评论]]></displayName>
+    <version><![CDATA[7.0.0]]></version>
+    <description><![CDATA[允许用户对您的产品发表评论和/或根据特定标准对其进行评分。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+感谢您在 {shop_name} 的订单，订单号为 {order_name}
+
+可下载的商品(s)
+
+您有 {nbProducts} 个商品(s) 可以下载，请点击以下链接(s)：
+
+{virtualProductsTxt}
+
+Follow your order and download your invoice on our store, go to the [历史及我的订单明细]({history_url}) section of your customer account.
+
+如果您有访客帐户，您可以通过我们商店的 [客户跟踪]({guest_tracking_url}) 部分关注您的订单。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

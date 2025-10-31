@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagesnotfound</name>
+    <displayName><![CDATA[找不到此页]]></displayName>
+    <version><![CDATA[2.0.3]]></version>
+    <description><![CDATA[丰富您的统计数据，显示您的访问者请求但无法找到的页面。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

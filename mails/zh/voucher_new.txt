@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+优惠券代码已生成
+
+这是您的新优惠券代码： {voucher_num}
+
+要使用它，只需在结帐时复制/粘贴此代码即可。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

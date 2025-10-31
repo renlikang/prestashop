@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_mainmenu</name>
+    <displayName><![CDATA[主菜单]]></displayName>
+    <version><![CDATA[2.3.4]]></version>
+    <description><![CDATA[让您的访问者在您的商店中轻松找到自己的方式，选择正确的链接并将其变成菜单项。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

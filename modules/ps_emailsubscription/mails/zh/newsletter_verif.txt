@@ -1,0 +1,12 @@
+ 
+
+{shop_url}
+
+您好，
+
+感谢您订阅我们的时事通讯。 请点击以下链接确认您的请求：
+{verif_url}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

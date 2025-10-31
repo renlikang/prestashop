@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+您在 {shop_name} 的购物车
+
+感谢您的光临。 但是，您似乎没有完成购买。
+
+您的购物车已保存，您可以通过访问我们的商店恢复您的订单： {shop_url}
+
+我们很高兴为您提供下一个订单 {amount}% 的折扣。 而且此优惠有效期为 {days} 天，所以不要再等了！
+
+您在 {shop_name} 上的优惠券代码
+
+这是您的优惠券代码： {voucher_num}
+
+在您的购物车中输入此代码以获得折扣。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_imageslider</name>
+    <displayName><![CDATA[图片幻灯片]]></displayName>
+    <version><![CDATA[3.2.1]]></version>
+    <description><![CDATA[将滑动图像添加到您的主页，以视觉和友好的方式欢迎您的访问者。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

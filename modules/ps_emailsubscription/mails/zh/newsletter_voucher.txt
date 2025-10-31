@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+您好，
+
+订阅时事通讯
+
+感谢您订阅我们的时事通讯。 我们很高兴为您提供以下优惠券： {discount}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

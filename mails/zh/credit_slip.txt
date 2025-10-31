@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+订单编号 {order_name} - 信用单
+
+我们很高兴地通知您，我们已为您的订单生成了一张代金券，订单编号为 {order_name}。
+
+Review this credit slip and download your invoice on our store, go to the [代金券]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

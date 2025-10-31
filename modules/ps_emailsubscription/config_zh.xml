@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_emailsubscription</name>
+    <displayName><![CDATA[电子简报订阅]]></displayName>
+    <version><![CDATA[2.8.2]]></version>
+    <description><![CDATA[以您想要的方式与您的客户保持联系，在您商店的主页上添加一个表格，并允许所有好奇的人订阅您的时事通讯。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[您确认要删除所有的联系方式？]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

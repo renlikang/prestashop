@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+订单编号 {order_name} - 生成的优惠券代码
+
+我们很高兴地通知您，我们已为您的订单生成了一张代金券，订单编号为 {order_name}。
+
+优惠券代码: {voucher_num} 中的金额为 {voucher_amount}
+
+要使用它，只需在结帐时复制/粘贴此代码即可。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

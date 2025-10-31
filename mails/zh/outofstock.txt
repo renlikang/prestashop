@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+感谢您在 {shop_name} 下的订单 {order_name}。
+
+订单编号 {order_name} - 需要补货
+
+不幸的是，一件或多件商品目前缺货，这可能会导致交货稍有延迟。 对于给您带来的不便，请接受我们的歉意，并确保我们正在尽最大努力纠正这种情况。
+
+Follow your order and download your invoice on our store, go to the [历史及我的订单明细]({history_url}) section of your customer account.
+
+如果您有访客帐户，您可以通过我们商店的 [客户跟踪]({guest_tracking_url}) 部分关注您的订单。
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

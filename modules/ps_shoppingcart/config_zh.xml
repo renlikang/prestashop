@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_shoppingcart</name>
+    <displayName><![CDATA[购物车]]></displayName>
+    <version><![CDATA[3.0.0]]></version>
+    <description><![CDATA[在您的页面上显示购物车图标及其包含的商品数量。]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

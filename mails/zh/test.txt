@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+这是一封来自你商店的测试邮件。
+
+如果你能看到这个，就说明测试成功了！
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)

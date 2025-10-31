@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+您好 {firstname} {lastname},
+
+{reply}
+
+请不要回复这封电子邮件，因为此信箱无人查看， 如需回复，请点击以下链接：{link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop-project.org/)
